@@ -1,0 +1,6 @@
+fastapi[all]
+starlette==0.41.2
+httpx==0.27.2
+itsdangerous==2.2.0
+requests==2.32.3
+python-dotenv==1.0.1
